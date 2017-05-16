@@ -27,7 +27,6 @@
     "angular2-fontawesome": "^0.9.0",
     "core-js": "^2.4.1",
     "font-awesome": "^4.7.0",
-    "integralui-web": "git+https://github.com/lidorsystems/integralui-web.git",
     "rxjs": "^5.0.1",
     "ts-helpers": "^1.1.1",
     "typescript": "^2.3.2",
