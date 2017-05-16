@@ -1,1 +1,32 @@
 /* You can add global styles to this file, and also import other style files */
+
+div.node-wrapper tree-node-expander span.toggle-children-wrapper {
+    background-color: #5cb85c;
+    border-radius: 4px;
+    border: none;
+    padding: 1px 5px 1px 5px;
+    margin: auto 10px;
+    cursor: pointer
+}
+
+div.node-wrapper tree-node-expander span.toggle-children-wrapper:hover {
+    background-color: #449d44;
+}
+
+div.node-wrapper tree-node-expander span.toggle-children {
+    background-image: url("../src/assets/arrow1.png");
+    width: 10px;
+    height: 13px;
+}
+
+div.tree {
+    cursor: move
+}
+
+body {
+    height: 100%
+}
+
+html {
+    height: 100%
+}
